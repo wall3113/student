@@ -6,10 +6,7 @@ package student;
 
 import java.util.Scanner;
 
-/**
- *
- * @author walla
- */
+/* @author wallace*/
 public class ReserveWord {
     
         public static void main(String[] args) {
